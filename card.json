@@ -1,0 +1,59 @@
+[
+    {
+        "name" : "Samsung Series 4",
+        "discount" : 37,
+        "price":13999,
+        "display": 22500,
+        "imgSrc" : "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90"
+    },
+    {
+        "name" : "Samsung Super 6",
+        "discount" : 46,
+        "price":35999,
+        "display": 66900,
+        "imgSrc" : "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90"
+    },
+    {
+        "name" : "Samsung The Frame",
+        "discount" : 36,
+        "price":84999,
+        "display": 133900,
+        "imgSrc" : "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90"
+    },
+    {
+        "name" : "Thomson B9 Pro",
+        "discount" : 41,
+        "price":9999,
+        "display": 16999,
+        "imgSrc" : "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90"
+    },
+    {
+        "name" : "LG Ultra HD",
+        "discount" : 50,
+        "price":39990,
+        "display": 79990,
+        "imgSrc" : "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90"
+    },
+    {
+        "name" : "Vu Ready LED TV",
+        "discount" : 52,
+        "price":7999,
+        "display": 17993,
+        "imgSrc" : "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90"
+    },
+    {
+        "name" : "Koryo Android TV",
+        "discount" : 71,
+        "price":55999,
+        "display": 199990,
+        "imgSrc" : "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90"
+    },
+    {
+        "name" : "Micromax LED Smart",
+        "discount" : 64,
+        "price":9999,
+        "display": 27990,
+        "imgSrc" : "https://rukminim1.flixcart.com/image/670/600/allinone-desktop/d/n/q/apple-imac-21-5-inch-4k-retina-core-i5-3-1ghz-8gb-1tb-intel-iris-original-imaeh5h83fuzbksz.jpeg?q=90"
+    }
+   
+]
